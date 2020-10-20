@@ -24,6 +24,9 @@ $("body").on("keypress",function(){
   }
 });
 
+//hlper functions.
+
+
 //func that generate the next sequence
 function nextSequence() {
   userClickedPattern = [];
